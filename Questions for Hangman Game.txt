@@ -1,0 +1,15 @@
+Questions for Hangman Game:
+1. What word is the leading wheat producer in India?
+Answer: Punjab
+
+2. What is the main food crop of the Kharif season?
+Answer: Rice
+
+3. What is the main food crop of the Rabi season?
+Answer: Wheat
+
+4. What is the short season between the Rabi and Kharif seasons called?
+Answer: Zaid
+
+5. Which state is the largest producer of Bajra?
+Answer: Rajasthan
